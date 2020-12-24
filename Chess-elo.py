@@ -49,7 +49,7 @@ if elox<eloatingir:
     print ("depois de ganhar", jogos ,"jogos seguidos o seu elo será", elox)
     print ("vai estar a ganhar", elov ,"elo por vitória no seu ultimo jogo")
 
-#elo derrota
+#elo de derrota
 if(elox2>eloatingir):
     while(elox2>eloatingir):
         if njogos+jogos3>30 or (elox1<2300 and idade<18):
